@@ -4,7 +4,7 @@ The emergence of large language models (LLMs) has resulted in the production of 
 
 [Google Drive Link for paper](https://drive.google.com/file/d/1U8oQNU4f-1c4hJG9vdFuV4xfa10mrKXC/view?usp=sharing)
 
-Cite this work:
+Cite this work:  
 Ruixiang Tang, Yu-Neng Chuang, Xia Hu. "The Scicence of LLM-generated Text Detection." Rice University
 
 Biblatex entry:
