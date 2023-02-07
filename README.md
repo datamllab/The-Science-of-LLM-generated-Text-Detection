@@ -1,2 +1,2 @@
-Please download our paper at:
-https://github.com/datamllab/The-Science-of-LLM-generated-Text-Detection/blob/main/The_Science_of_Detecting_LLM_Generated_Texts.pdf
+Google Drive Link:
+https://drive.google.com/file/d/1U8oQNU4f-1c4hJG9vdFuV4xfa10mrKXC/view?usp=sharing
