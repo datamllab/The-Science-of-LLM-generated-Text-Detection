@@ -1,1 +1,1 @@
-<iframe src="https://docs.google.com/viewer?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+https://github.com/datamllab/The-Science-of-LLM-generated-Text-Detection/blob/main/The_Science_of_Detecting_LLM_Generated_Texts.pdf
