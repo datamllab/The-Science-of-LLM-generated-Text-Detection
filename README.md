@@ -11,12 +11,11 @@ Ruixiang Tang, Yu-Neng Chuang, Xia Hu. "The Scicence of LLM-generated Text Detec
 
 Biblatex entry:
 
-@article{tang2023LLMdetection,  
-author={Ruixiang Tang and Yu-Neng Chuang and Xia Hu},  
-title={The Scicence of LLM-generated Text Detection},  
-journal={Rice University},  
-year={2023},  
-volume={10},  
-numbers={10},  
-pages={1--10}  
+unpublished{              
+tang2023the,              
+title={The Science of LLM-Generated Text Detection},              
+author={Ruixiang Tang, Yu-Neng Chuang, Xia Hu},              
+journal={OpenReview Preprint},              
+year={2023},              
+note={preprint under review}          
 }  
